@@ -1,0 +1,549 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Middletown HVAC — We Don't Guess. We Measure.</title>
+  <style>html,body{margin:0;background:#03101c}body{min-width:320px}</style>
+</head>
+<body>
+<section
+  id="mtown-diagnostic-standard-v1"
+  data-mtown-section="diagnostic-standard.1.0"
+  data-mtown-page="diagnostic-standard-preview"
+  aria-labelledby="mtds1-title"
+>
+  <style>
+    #mtown-diagnostic-standard-v1,
+    #mtown-diagnostic-standard-v1 * {
+      box-sizing: border-box;
+      min-width: 0;
+    }
+
+    #mtown-diagnostic-standard-v1 {
+      --navy-1000: #03101c;
+      --navy-950: #061522;
+      --navy-900: #081d31;
+      --navy-850: #0d273c;
+      --navy-800: #12334e;
+      --white: #ffffff;
+      --muted: #d7e4ec;
+      --muted-2: #b9ceda;
+      --cyan: #65d9ff;
+      --cyan-2: #2a9dcc;
+      --gold: #ffd740;
+      --gold-2: #ffaa23;
+      --orange: #ff8a2a;
+      --orange-2: #eb5a00;
+      --platinum: #e7eaee;
+      --platinum-2: #7a8490;
+      --blue: #2a6dff;
+      --blue-2: #0030b4;
+      --line: rgba(255,255,255,.14);
+      --shadow: 0 28px 74px rgba(0,0,0,.34);
+
+      position: relative;
+      width: 100%;
+      overflow: hidden;
+      color: var(--white);
+      background:
+        radial-gradient(circle at 90% 8%, rgba(42,109,255,.18), transparent 28%),
+        radial-gradient(circle at 6% 92%, rgba(255,101,0,.10), transparent 31%),
+        linear-gradient(145deg, var(--navy-1000), var(--navy-800));
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 560;
+      line-height: 1.58;
+      -webkit-text-size-adjust: 100%;
+      isolation: isolate;
+    }
+
+    #mtown-diagnostic-standard-v1 a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-shell {
+      width: min(1180px, calc(100% - 32px));
+      margin: 0 auto;
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-section {
+      padding: clamp(62px, 8vw, 104px) 0;
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-grid {
+      display: grid;
+      grid-template-columns: minmax(0,1.04fr) minmax(380px,.96fr);
+      gap: clamp(34px,5vw,68px);
+      align-items: center;
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-kicker {
+      display: inline-flex;
+      align-items: center;
+      min-height: 34px;
+      padding: 7px 12px;
+      border-radius: 999px;
+      color: #fff0a8;
+      background: rgba(255,215,64,.09);
+      border: 1px solid rgba(255,215,64,.25);
+      font-size: 11px;
+      line-height: 1;
+      font-weight: 950;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+    }
+
+    #mtown-diagnostic-standard-v1 h2 {
+      margin: 15px 0 0;
+      max-width: 850px;
+      font-size: clamp(40px,5.4vw,68px);
+      line-height: .99;
+      letter-spacing: -.052em;
+      font-weight: 980;
+      text-wrap: balance;
+    }
+
+    #mtown-diagnostic-standard-v1 h2 span {
+      display: block;
+      margin-top: 7px;
+      color: var(--cyan);
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-lead {
+      margin: 19px 0 0;
+      max-width: 790px;
+      color: var(--muted);
+      font-size: clamp(17px,1.7vw,21px);
+      line-height: 1.62;
+      font-weight: 650;
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-lead strong {
+      color: #ffffff;
+      font-weight: 900;
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-steps {
+      display: grid;
+      gap: 13px;
+      margin-top: 30px;
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-step {
+      display: grid;
+      grid-template-columns: 48px minmax(0,1fr);
+      gap: 15px;
+      align-items: start;
+      padding: 18px;
+      border-radius: 20px;
+      background:
+        linear-gradient(180deg, rgba(255,255,255,.075), rgba(255,255,255,.035)),
+        rgba(3,16,27,.42);
+      border: 1px solid var(--line);
+      box-shadow: inset 0 1px 0 rgba(255,255,255,.06);
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-number {
+      display: grid;
+      place-items: center;
+      width: 48px;
+      height: 48px;
+      border-radius: 15px;
+      color: #03101c;
+      background: linear-gradient(145deg, #83e8ff, var(--cyan));
+      box-shadow: 0 10px 28px rgba(101,217,255,.20), inset 0 1px 0 rgba(255,255,255,.65);
+      font-size: 20px;
+      font-weight: 980;
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-step strong {
+      display: block;
+      color: #ffffff;
+      font-size: clamp(17px,1.8vw,21px);
+      line-height: 1.18;
+      font-weight: 950;
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-step p {
+      margin: 7px 0 0;
+      color: #c9d9e2;
+      font-size: 14px;
+      line-height: 1.58;
+      font-weight: 620;
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-media {
+      position: relative;
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-photo {
+      overflow: hidden;
+      border-radius: 28px;
+      background: #071827;
+      border: 1px solid rgba(255,255,255,.16);
+      box-shadow: var(--shadow);
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-photo img {
+      display: block;
+      width: 100%;
+      height: auto;
+      aspect-ratio: 4 / 3;
+      object-fit: cover;
+      object-position: center;
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-photo-copy {
+      padding: 20px;
+      color: #ffffff;
+      background: linear-gradient(135deg,#0b2134,#12334e);
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-photo-copy strong {
+      display: block;
+      font-size: 22px;
+      line-height: 1.15;
+      font-weight: 960;
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-photo-copy span {
+      display: block;
+      margin-top: 7px;
+      color: #c5d7e1;
+      font-size: 14px;
+      line-height: 1.5;
+      font-weight: 640;
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-readings {
+      display: grid;
+      grid-template-columns: repeat(2,minmax(0,1fr));
+      gap: 10px;
+      margin-top: 13px;
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-reading {
+      padding: 13px;
+      border-radius: 16px;
+      color: #eaf4f8;
+      background: rgba(255,255,255,.06);
+      border: 1px solid rgba(255,255,255,.12);
+      font-size: 12px;
+      line-height: 1.35;
+      font-weight: 850;
+      text-align: center;
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-callout {
+      position: absolute;
+      right: -24px;
+      top: 34px;
+      max-width: 235px;
+      padding: 15px 17px;
+      border-radius: 18px;
+      color: #102231;
+      background: #ffffff;
+      box-shadow: 0 20px 52px rgba(0,0,0,.28);
+      font-size: 13px;
+      line-height: 1.48;
+      font-weight: 760;
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-callout strong {
+      display: block;
+      margin-bottom: 3px;
+      color: #075e8e;
+      font-size: 15px;
+      font-weight: 950;
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-close {
+      margin-top: 30px;
+      padding: 23px;
+      border-radius: 22px;
+      color: #102231;
+      background: linear-gradient(135deg,#ffffff,#eef9fd);
+      border: 1px solid rgba(101,217,255,.38);
+      box-shadow: 0 20px 50px rgba(0,0,0,.18);
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-close strong {
+      display: block;
+      font-size: 22px;
+      line-height: 1.15;
+      font-weight: 970;
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-close p {
+      margin: 8px 0 0;
+      color: #3b5566;
+      font-size: 15px;
+      line-height: 1.55;
+      font-weight: 650;
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 18px;
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 48px;
+      padding: 12px 18px;
+      border-radius: 999px;
+      border: 1px solid transparent;
+      font-size: 14px;
+      line-height: 1.1;
+      font-weight: 930;
+      text-align: center;
+      box-shadow: 0 14px 32px rgba(2,14,24,.18), inset 0 1px 0 rgba(255,255,255,.28);
+      transition: transform .18s ease, filter .18s ease;
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-btn:hover {
+      transform: translateY(-2px);
+      filter: brightness(1.04);
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-btn:active {
+      transform: translateY(1px) scale(.99);
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-book {
+      color: #241900;
+      background: linear-gradient(135deg,var(--gold),var(--gold-2));
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-text {
+      color: #101820;
+      background: linear-gradient(135deg,var(--platinum),var(--platinum-2));
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-call {
+      color: #ffffff;
+      background: linear-gradient(135deg,var(--orange),var(--orange-2));
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-facebook {
+      color: #ffffff;
+      background: linear-gradient(135deg,var(--blue),var(--blue-2));
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-btn:focus-visible {
+      outline: 3px solid #8bdfff;
+      outline-offset: 3px;
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-fallback {
+      display: none;
+      min-height: 300px;
+      place-items: center;
+      padding: 28px;
+      color: #ffffff;
+      background: linear-gradient(145deg,#071827,#12334e);
+      text-align: center;
+      font-weight: 850;
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-photo.is-failed img,
+    #mtown-diagnostic-standard-v1 .mtds1-photo.is-failed .mtds1-photo-copy {
+      display: none;
+    }
+
+    #mtown-diagnostic-standard-v1 .mtds1-photo.is-failed .mtds1-fallback {
+      display: grid;
+    }
+
+    @media (max-width: 980px) {
+      #mtown-diagnostic-standard-v1 .mtds1-grid {
+        grid-template-columns: 1fr;
+      }
+
+      #mtown-diagnostic-standard-v1 .mtds1-media {
+        max-width: 760px;
+      }
+    }
+
+    @media (max-width: 680px) {
+      #mtown-diagnostic-standard-v1 .mtds1-shell {
+        width: min(100% - 22px,1180px);
+      }
+
+      #mtown-diagnostic-standard-v1 .mtds1-section {
+        padding: 52px 0;
+      }
+
+      #mtown-diagnostic-standard-v1 h2 {
+        font-size: clamp(39px,12vw,56px);
+      }
+
+      #mtown-diagnostic-standard-v1 .mtds1-step {
+        grid-template-columns: 43px minmax(0,1fr);
+        gap: 13px;
+        padding: 16px;
+      }
+
+      #mtown-diagnostic-standard-v1 .mtds1-number {
+        width: 43px;
+        height: 43px;
+        border-radius: 13px;
+        font-size: 18px;
+      }
+
+      #mtown-diagnostic-standard-v1 .mtds1-photo img {
+        aspect-ratio: 16 / 10;
+      }
+
+      #mtown-diagnostic-standard-v1 .mtds1-callout {
+        position: static;
+        max-width: none;
+        margin-top: 12px;
+      }
+
+      #mtown-diagnostic-standard-v1 .mtds1-actions {
+        display: grid;
+        grid-template-columns: 1fr;
+      }
+
+      #mtown-diagnostic-standard-v1 .mtds1-btn {
+        width: 100%;
+        min-height: 50px;
+      }
+    }
+
+    @media (orientation: landscape) and (max-height: 500px) {
+      #mtown-diagnostic-standard-v1 .mtds1-section {
+        padding: 40px 0;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      #mtown-diagnostic-standard-v1 *,
+      #mtown-diagnostic-standard-v1 *::before,
+      #mtown-diagnostic-standard-v1 *::after {
+        animation: none !important;
+        transition: none !important;
+        scroll-behavior: auto !important;
+      }
+    }
+  </style>
+
+  <div class="mtds1-section">
+    <div class="mtds1-shell mtds1-grid">
+      <div>
+        <span class="mtds1-kicker">The Middletown standard</span>
+        <h2 id="mtds1-title">We don’t guess.<span>We measure.</span></h2>
+        <p class="mtds1-lead"><strong>The devil is in the details.</strong> Digital testing equipment helps us see what your system is actually doing, so the diagnosis and the choices we give you are based on facts—not assumptions.</p>
+
+        <div class="mtds1-steps">
+          <article class="mtds1-step">
+            <span class="mtds1-number">1</span>
+            <div>
+              <strong>We find out what the system is actually doing</strong>
+              <p>No guessing. We use digital instruments to verify the problem before we recommend a repair or replacement.</p>
+            </div>
+          </article>
+
+          <article class="mtds1-step">
+            <span class="mtds1-number">2</span>
+            <div>
+              <strong>We track down the cause</strong>
+              <p>Weak airflow, uneven temperatures, high bills, and strange noises can have more than one cause. We test before we decide.</p>
+            </div>
+          </article>
+
+          <article class="mtds1-step">
+            <span class="mtds1-number">3</span>
+            <div>
+              <strong>We explain what makes sense for your home</strong>
+              <p>You get clear repair and replacement choices. Nobody earns a commission for selling you equipment, so the recommendation is based on your home—not what makes us the most money.</p>
+            </div>
+          </article>
+
+          <article class="mtds1-step">
+            <span class="mtds1-number">4</span>
+            <div>
+              <strong>We verify the result</strong>
+              <p>After the approved work is complete, we check the readings again to make sure the system is operating the way it should.</p>
+            </div>
+          </article>
+        </div>
+      </div>
+
+      <div class="mtds1-media">
+        <figure class="mtds1-photo" data-mtds-image-card>
+          <img
+            src="https://raw.githubusercontent.com/mtownhvac-gif/mtownhvac-assets/main/images/outdoor-units/condenser-service-tech.jpg"
+            alt="Middletown HVAC technician diagnosing an outdoor heating and cooling system"
+            loading="eager"
+            fetchpriority="high"
+            decoding="async"
+          >
+          <div class="mtds1-fallback">Middletown HVAC diagnostic photo unavailable.</div>
+          <figcaption class="mtds1-photo-copy">
+            <strong>Digital readings. Real answers.</strong>
+            <span>The equipment gives us the facts. Experience tells us what those facts mean for your home.</span>
+            <div class="mtds1-readings" aria-label="Examples of system measurements">
+              <span class="mtds1-reading">Airflow &amp; static pressure</span>
+              <span class="mtds1-reading">Temperatures</span>
+              <span class="mtds1-reading">Electrical operation</span>
+              <span class="mtds1-reading">Combustion &amp; refrigerant data</span>
+            </div>
+          </figcaption>
+        </figure>
+
+        <aside class="mtds1-callout">
+          <strong>Call us for honest service.</strong>
+          We show you what the system is doing, explain the options, and let you decide what happens next.
+        </aside>
+      </div>
+    </div>
+
+    <div class="mtds1-shell">
+      <div class="mtds1-close">
+        <strong>Facts first. Clear choices next.</strong>
+        <p>Whether the right answer is a repair, continued maintenance, or replacement, you should understand why before spending the money.</p>
+        <div class="mtds1-actions" aria-label="Middletown HVAC contact actions">
+          <a class="mtds1-btn mtds1-book" href="https://book.housecallpro.com/book/Middletown-HVAC-LLC/fee90a1b38e64428a9ebf1cf37e04197?v2=true" target="_top" rel="noopener">Book Now!</a>
+          <a class="mtds1-btn mtds1-text" href="sms:+16105108338" target="_top">Text Us!</a>
+          <a class="mtds1-btn mtds1-call" href="tel:+16105006416" target="_top">Call Us!</a>
+          <a class="mtds1-btn mtds1-facebook" href="https://www.facebook.com/profile.php?id=61552580750917" target="_top" rel="noopener">Facebook</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    (function () {
+      "use strict";
+
+      var nodes = document.querySelectorAll('[data-mtown-page="diagnostic-standard-preview"]');
+      if (!nodes.length) return;
+
+      for (var i = 0; i < nodes.length - 1; i += 1) {
+        nodes[i].style.display = "none";
+        nodes[i].setAttribute("aria-hidden", "true");
+      }
+
+      var root = nodes[nodes.length - 1];
+      if (root.__init) return;
+      root.__init = true;
+
+      var image = root.querySelector('[data-mtds-image-card] img');
+      if (image) {
+        image.addEventListener("error", function () {
+          var card = image.closest('[data-mtds-image-card]');
+          if (card) card.classList.add("is-failed");
+        }, { once: true });
+      }
+    }());
+  </script>
+</section>
+</body>
+</html>
