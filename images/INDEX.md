@@ -32,6 +32,8 @@ Generated. Do not edit by hand.
 - [`furnace-install-02.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/furnace-install-02.jpg) — 1090x1600, 344 KB
 - [`furnace-water-heater-basement.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/furnace-water-heater-basement.jpg) — 1536x1024, 206 KB
 - [`furnace-water-heater-branded-plenum.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/furnace-water-heater-branded-plenum.jpg) — 1196x1058, 187 KB — Furnace, water heater, and new plenum installed by Middletown HVAC in a basement
+- [`furnace-install-newtown-square-01.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/furnace-install-newtown-square-01.jpg) — 1199x1600, 293 KB — High-efficiency Heil furnace and sheet-metal ductwork installed by Middletown HVAC in a Newtown Square basement
+- [`furnace-install-newtown-square-02.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/furnace-install-newtown-square-02.jpg) — 1317x989, 240 KB — High-efficiency Heil furnace and sheet-metal ductwork installed by Middletown HVAC in a Newtown Square basement
 - [`heil-furnace-closeup.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/heil-furnace-closeup.jpg) — 1200x1600, 258 KB
 - [`heil-furnace-install-branded.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/heil-furnace-install-branded.jpg) — 940x788, 131 KB
 
