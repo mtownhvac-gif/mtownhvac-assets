@@ -29,6 +29,7 @@ Generated. Do not edit by hand.
 ## furnaces
 
 - [`furnace-basement-install-01.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/furnace-basement-install-01.jpg) — 1024x768, 138 KB
+- [`furnace-basement-install-01-tight.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/furnace-basement-install-01-tight.jpg) — 789x768, 127 KB — Heil furnace with fabricated plenum and PVC venting, tight crop of furnace-basement-install-01 without the stool and old humidifier at left
 - [`furnace-horizontal-install.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/furnace-horizontal-install.jpg) — 1200x1600, 233 KB
 - [`furnace-install-02.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/furnace-install-02.jpg) — 1090x1600, 344 KB
 - [`furnace-water-heater-basement.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/furnace-water-heater-basement.jpg) — 1536x1024, 206 KB
