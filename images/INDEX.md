@@ -20,6 +20,7 @@ Generated. Do not edit by hand.
 
 - [`boiler-copper-piping.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/boilers/boiler-copper-piping.jpg) — 1200x1600, 332 KB — Copper near-boiler piping installed by Middletown HVAC
 - [`boiler-room-water-heater.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/boilers/boiler-room-water-heater.jpg) — 1200x1600, 283 KB
+- [`weil-mclain-boiler-copper-piping.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/boilers/weil-mclain-boiler-copper-piping.jpg) — 860x1600, 231 KB — Weil-McLain gas boiler with Middletown sticker, copper piping and expansion tank; crop of boiler-copper-piping without the water heater at right
 - [`boiler-water-heater-piping.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/boilers/boiler-water-heater-piping.jpg) — 1024x1536, 312 KB
 
 ## dryer-vent
