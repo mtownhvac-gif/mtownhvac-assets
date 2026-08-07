@@ -13,6 +13,7 @@ Generated. Do not edit by hand.
 - [`mini-split-head-05.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/air-handlers/mini-split-head-05.jpg) — 480x360, 17 KB
 - [`mini-split-head-den.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/air-handlers/mini-split-head-den.jpg) — 1600x1200, 275 KB
 - [`mini-split-head-yellow-room.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/air-handlers/mini-split-head-yellow-room.jpg) — 1600x1200, 164 KB
+- [`mini-split-head-springfield-bedroom.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/air-handlers/mini-split-head-springfield-bedroom.jpg) — 1320x989, 100 KB — Ductless mini split head installed by Middletown HVAC in a Springfield bedroom
 - [`mini-split-install-tech.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/air-handlers/mini-split-install-tech.jpg) — 768x1024, 118 KB — Middletown HVAC technician servicing a ductless mini split head
 
 ## boilers
