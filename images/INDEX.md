@@ -57,6 +57,7 @@ Generated. Do not edit by hand.
 - [`ad-utility-waste-audit.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/ad-utility-waste-audit.jpg) — 1152x922, 272 KB
 - [`ad-water-heater-gamble.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/ad-water-heater-gamble.jpg) — 1536x1024, 332 KB
 - [`emergency-service-available.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/emergency-service-available.jpg) — 1024x768, 216 KB
+- [`zuul-mascot-driveway.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/zuul-mascot-driveway.jpg) — 664x640, 124 KB — Zuul the Cane Corso mascot in a Middletown HVAC bandana lying on a front walkway, branded van and stone house behind (clean crop of ad-meet-the-face-of-comfort, no baked-in text)
 - [`tech-ladder-exterior-wall.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/tech-ladder-exterior-wall.jpg) — 1200x1600, 314 KB — Middletown HVAC technician on an extension ladder working at an exterior wall vent
 
 ## indoor-air-quality
