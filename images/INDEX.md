@@ -60,6 +60,7 @@ Generated. Do not edit by hand.
 - [`ad-water-heater-gamble.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/ad-water-heater-gamble.jpg) — 1536x1024, 332 KB
 - [`emergency-service-available.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/emergency-service-available.jpg) — 1024x768, 216 KB
 - [`zuul-mascot-driveway.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/zuul-mascot-driveway.jpg) — 664x640, 124 KB — Zuul the Cane Corso mascot in a Middletown HVAC bandana lying on a front walkway, branded van and stone house behind (clean crop of ad-meet-the-face-of-comfort, no baked-in text)
+- [`team-furnace-walkthrough.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/team-furnace-walkthrough.jpg) — 1600x1153, 151 KB — Two Middletown HVAC technicians in branded gear walking through a finished Heil furnace install in a basement
 - [`tech-ladder-exterior-wall.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/tech-ladder-exterior-wall.jpg) — 1200x1600, 314 KB — Middletown HVAC technician on an extension ladder working at an exterior wall vent
 
 ## indoor-air-quality
@@ -91,6 +92,8 @@ Generated. Do not edit by hand.
 - [`heat-pump-pair-01.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/outdoor-units/heat-pump-pair-01.jpg) — 1024x768, 193 KB
 - [`heat-pump-pair-02.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/outdoor-units/heat-pump-pair-02.jpg) — 1600x1200, 340 KB
 - [`heat-pump-pair-stone-wall.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/outdoor-units/heat-pump-pair-stone-wall.jpg) — 1536x1024, 340 KB
+- [`heil-condenser-leafy-01.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/outdoor-units/heil-condenser-leafy-01.jpg) — 900x1600, 345 KB — Heil condenser on a pad beside white siding, portrait
+- [`heil-condenser-leafy-02.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/outdoor-units/heil-condenser-leafy-02.jpg) — 1320x724, 260 KB — Heil condenser on a pad beside white siding, landscape
 - [`heil-condenser-paver-pad.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/outdoor-units/heil-condenser-paver-pad.jpg) — 1536x1024, 277 KB — Heil condenser installed on a level paver pad by Middletown HVAC
 - [`mini-split-condenser-01.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/outdoor-units/mini-split-condenser-01.jpg) — 1024x768, 201 KB
 - [`mini-split-condenser-02.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/outdoor-units/mini-split-condenser-02.jpg) — 1600x1200, 342 KB
