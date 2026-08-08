@@ -4,6 +4,7 @@ Generated. Do not edit by hand.
 
 ## air-handlers
 
+- [`explaining-ductless-fireplace.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/air-handlers/explaining-ductless-fireplace.jpg) — 1320x717, 110 KB — Co-owner explaining a Fujitsu mini split above a brick fireplace (clean original of the ad frame)
 - [`fujitsu-mini-split-head-01.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/air-handlers/fujitsu-mini-split-head-01.jpg) — 1024x768, 54 KB
 - [`fujitsu-mini-split-head-02.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/air-handlers/fujitsu-mini-split-head-02.jpg) — 1600x1200, 147 KB
 - [`mini-split-head-01.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/air-handlers/mini-split-head-01.jpg) — 480x360, 17 KB
