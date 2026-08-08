@@ -55,6 +55,7 @@ Generated. Do not edit by hand.
 
 ## general
 
+- [`return-plenum-fabrication.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/return-plenum-fabrication.jpg) — 1224x1600, 266 KB — Middletown HVAC owner in branded shirt fastening a sheet metal return plenum above a return grille, mid-fabrication
 - [`tech-furnace-repair-interior.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/tech-furnace-repair-interior.jpg) — 1208x1600, 339 KB — Middletown HVAC technician in branded hoodie working inside an open furnace cabinet
 - [`combustion-analyzer-test.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/combustion-analyzer-test.jpg) — 1211x1600, 336 KB — Middletown HVAC technician running a combustion analysis with a probe in the flue at a Heil furnace
 - [`ad-clean-installs.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/ad-clean-installs.jpg) — 1600x900, 323 KB
