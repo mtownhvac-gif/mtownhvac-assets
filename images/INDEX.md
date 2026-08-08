@@ -85,6 +85,7 @@ Generated. Do not edit by hand.
 
 ## indoor-air-quality
 
+- [`media-air-cleaners-furnace.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/indoor-air-quality/media-air-cleaners-furnace.jpg) — 1600x1200, 276 KB — Furnace flanked by two Honeywell Home whole-home media air cleaners, Middletown stickers on the plenum and supply duct
 - [`ad-air-handler-uv-monster.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/indoor-air-quality/ad-air-handler-uv-monster.jpg) — 1600x900, 338 KB
 - [`ad-dirty-filters.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/indoor-air-quality/ad-dirty-filters.jpg) — 1491x1055, 347 KB
 
