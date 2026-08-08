@@ -55,6 +55,7 @@ Generated. Do not edit by hand.
 
 ## general
 
+- [`flue-cleaning-respirator.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/flue-cleaning-respirator.jpg) — 940x1600, 282 KB — Technician in respirator and gloves vacuuming a furnace flue, tight crop
 - [`rooftop-unit-set-commercial.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/rooftop-unit-set-commercial.jpg) — 1320x721, 191 KB — Two technicians landing a rooftop package unit onto a new curb — light commercial work
 - [`flue-vacuum-cleaning.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/flue-vacuum-cleaning.jpg) — 1205x1600, 296 KB — Technician in respirator and gloves vacuuming an oil furnace flue during service
 - [`return-plenum-fabrication.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/return-plenum-fabrication.jpg) — 1224x1600, 266 KB — Middletown HVAC owner in branded shirt fastening a sheet metal return plenum above a return grille, mid-fabrication
