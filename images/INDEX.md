@@ -5,6 +5,7 @@ Generated. Do not edit by hand.
 ## air-handlers
 
 - [`explaining-ductless-fireplace.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/air-handlers/explaining-ductless-fireplace.jpg) — 1320x717, 110 KB — Co-owner explaining a Fujitsu mini split above a brick fireplace (clean original of the ad frame)
+- [`uv-light-mini-split.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/air-handlers/uv-light-mini-split.jpg) — 899x1600, tech on ladder showing a UV purification light glowing inside a ductless mini split head
 - [`fujitsu-mini-split-head-01.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/air-handlers/fujitsu-mini-split-head-01.jpg) — 1024x768, 54 KB
 - [`fujitsu-mini-split-head-02.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/air-handlers/fujitsu-mini-split-head-02.jpg) — 1600x1200, 147 KB
 - [`mini-split-head-01.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/air-handlers/mini-split-head-01.jpg) — 480x360, 17 KB
@@ -41,6 +42,7 @@ Generated. Do not edit by hand.
 - [`heil-furnace-install-crew.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/heil-furnace-install-crew.jpg) — 1579x1600, 345 KB — Heil furnace install with Honeywell thermostat and crew working in the background
 - [`oil-to-gas-conversion-walkthrough.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/oil-to-gas-conversion-walkthrough.jpg) — 905x1600, 190 KB — Tech walking through a completed oil-to-gas conversion: Heil furnace, new coil, PVC venting, water heater (clean original of the Glen Mills ad frame)
 - [`furnace-install-broomall.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/furnace-install-broomall.jpg) — 1200x1600, 329 KB — Heil high-efficiency gas furnace with new plenum and PVC venting installed in a Broomall home, October (A/C + furnace job)
+- [`heil-furnace-aprilaire.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/heil-furnace-aprilaire.jpg) — 1210x1600, Heil high-efficiency furnace with Aprilaire whole-home media air cleaner and fabricated plenum
 - [`heil-furnace-closeup.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/heil-furnace-closeup.jpg) — 1200x1600, 258 KB
 - [`heil-furnace-install-branded.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/heil-furnace-install-branded.jpg) — 940x788, 131 KB
 
@@ -68,6 +70,7 @@ Generated. Do not edit by hand.
 - [`emergency-service-available.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/emergency-service-available.jpg) — 1024x768, 216 KB
 - [`zuul-mascot-driveway.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/zuul-mascot-driveway.jpg) — 664x640, 124 KB — Zuul the Cane Corso mascot in a Middletown HVAC bandana lying on a front walkway, branded van and stone house behind (clean crop of ad-meet-the-face-of-comfort, no baked-in text)
 - [`team-furnace-walkthrough.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/team-furnace-walkthrough.jpg) — 1600x1153, 151 KB — Two Middletown HVAC technicians in branded gear walking through a finished Heil furnace install in a basement
+- [`team-heil-furnace-duo.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/team-heil-furnace-duo.jpg) — 1320x720, two Middletown HVAC techs presenting a finished Heil high-efficiency furnace install
 - [`explaining-heil-furnace.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/explaining-heil-furnace.jpg) — 889x1600, 156 KB — Middletown HVAC tech explaining a finished Heil furnace install, basement
 - [`shop-front-heather.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/shop-front-heather.jpg) — 1320x1291, 343 KB — Middletown HVAC co-owner at the shop front door with company sign and mailbox
 - [`tech-ladder-exterior-wall.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/tech-ladder-exterior-wall.jpg) — 1200x1600, 314 KB — Middletown HVAC technician on an extension ladder working at an exterior wall vent
