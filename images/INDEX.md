@@ -4,6 +4,7 @@ Generated. Do not edit by hand.
 
 ## air-handlers
 
+- [`heil-air-handler-closet.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/air-handlers/heil-air-handler-closet.jpg) — 1224x1600, 266 KB — Heil air handler in a closet with the Middletown sticker, condensate and disconnect at the base
 - [`explaining-ductless-fireplace.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/air-handlers/explaining-ductless-fireplace.jpg) — 1320x717, 110 KB — Co-owner explaining a Fujitsu mini split above a brick fireplace (clean original of the ad frame)
 - [`uv-light-mini-split.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/air-handlers/uv-light-mini-split.jpg) — 899x1600, tech on ladder showing a UV purification light glowing inside a ductless mini split head
 - [`fujitsu-mini-split-head-01.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/air-handlers/fujitsu-mini-split-head-01.jpg) — 1024x768, 54 KB
@@ -91,6 +92,7 @@ Generated. Do not edit by hand.
 
 ## outdoor-units
 
+- [`ductless-heat-pump-riser-feet.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/outdoor-units/ductless-heat-pump-riser-feet.jpg) — 1201x1600, 228 KB — Ductless heat pump outdoor unit on riser feet beside an existing condenser, EnergyGuide rating visible
 - [`heil-condenser-beauty.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/outdoor-units/heil-condenser-beauty.jpg) — 1320x982, 332 KB — Heil condenser straight on against a white stucco wall with mulch and granite curbing
 - [`tech-charging-system-snow.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/outdoor-units/tech-charging-system-snow.jpg) — 1320x727, 218 KB — Middletown HVAC technician charging a system with gauges and a nitrogen tank in the snow
 - [`heil-condenser-snow.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/outdoor-units/heil-condenser-snow.jpg) — 1320x732, 241 KB — Heil outdoor unit on a pad in the snow beside vinyl siding
