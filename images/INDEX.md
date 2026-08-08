@@ -55,6 +55,8 @@ Generated. Do not edit by hand.
 
 ## general
 
+- [`rooftop-unit-set-commercial.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/rooftop-unit-set-commercial.jpg) — 1320x721, 191 KB — Two technicians landing a rooftop package unit onto a new curb — light commercial work
+- [`flue-vacuum-cleaning.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/flue-vacuum-cleaning.jpg) — 1205x1600, 296 KB — Technician in respirator and gloves vacuuming an oil furnace flue during service
 - [`return-plenum-fabrication.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/return-plenum-fabrication.jpg) — 1224x1600, 266 KB — Middletown HVAC owner in branded shirt fastening a sheet metal return plenum above a return grille, mid-fabrication
 - [`tech-furnace-repair-interior.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/tech-furnace-repair-interior.jpg) — 1208x1600, 339 KB — Middletown HVAC technician in branded hoodie working inside an open furnace cabinet
 - [`combustion-analyzer-test.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/combustion-analyzer-test.jpg) — 1211x1600, 336 KB — Middletown HVAC technician running a combustion analysis with a probe in the flue at a Heil furnace
@@ -87,6 +89,8 @@ Generated. Do not edit by hand.
 
 ## indoor-air-quality
 
+- [`air-scrubber-in-duct.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/indoor-air-quality/air-scrubber-in-duct.jpg) — 1217x1600, 318 KB — Air Scrubber by ActivePure installed in ductwork, wider view with conduit
+- [`air-scrubber-closeup.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/indoor-air-quality/air-scrubber-closeup.jpg) — 1210x1600, 310 KB — Air Scrubber by ActivePure mounted in a supply duct, UV lamp lit
 - [`media-air-cleaners-furnace.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/indoor-air-quality/media-air-cleaners-furnace.jpg) — 1600x1200, 276 KB — Furnace flanked by two Honeywell Home whole-home media air cleaners, Middletown stickers on the plenum and supply duct
 - [`ad-air-handler-uv-monster.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/indoor-air-quality/ad-air-handler-uv-monster.jpg) — 1600x900, 338 KB
 - [`ad-dirty-filters.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/indoor-air-quality/ad-dirty-filters.jpg) — 1491x1055, 347 KB
