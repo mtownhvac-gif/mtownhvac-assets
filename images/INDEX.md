@@ -55,6 +55,9 @@ Generated. Do not edit by hand.
 
 ## general
 
+- [`rooftop-airstage-vrf.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/rooftop-airstage-vrf.jpg) — 1320x982, 185 KB — Fujitsu Airstage multi-zone outdoor units on a commercial flat roof, line sets on sleepers
+- [`rooftop-forklift-lift.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/rooftop-forklift-lift.jpg) — 1320x729, 114 KB — Technician guiding a crated unit lifted to a commercial roof by forklift
+- [`rtu-service-panel-open.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/rtu-service-panel-open.jpg) — 1320x968, 294 KB — Rooftop package unit opened for inspection, second RTU on the adjoining roof — light commercial service
 - [`flue-cleaning-respirator.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/flue-cleaning-respirator.jpg) — 940x1600, 282 KB — Technician in respirator and gloves vacuuming a furnace flue, tight crop
 - [`rooftop-unit-set-commercial.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/rooftop-unit-set-commercial.jpg) — 1320x721, 191 KB — Two technicians landing a rooftop package unit onto a new curb — light commercial work
 - [`flue-vacuum-cleaning.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/flue-vacuum-cleaning.jpg) — 1205x1600, 296 KB — Technician in respirator and gloves vacuuming an oil furnace flue during service
