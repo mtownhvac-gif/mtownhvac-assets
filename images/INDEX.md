@@ -38,6 +38,7 @@ Generated. Do not edit by hand.
 - [`furnace-install-newtown-square-01.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/furnace-install-newtown-square-01.jpg) — 1199x1600, 293 KB — High-efficiency Heil furnace and sheet-metal ductwork installed by Middletown HVAC in a Newtown Square basement
 - [`furnace-install-newtown-square-02.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/furnace-install-newtown-square-02.jpg) — 1317x989, 240 KB — High-efficiency Heil furnace and sheet-metal ductwork installed by Middletown HVAC in a Newtown Square basement
 - [`heil-furnace-install-crew.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/heil-furnace-install-crew.jpg) — 1579x1600, 345 KB — Heil furnace install with Honeywell thermostat and crew working in the background
+- [`oil-to-gas-conversion-walkthrough.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/oil-to-gas-conversion-walkthrough.jpg) — 905x1600, 190 KB — Tech walking through a completed oil-to-gas conversion: Heil furnace, new coil, PVC venting, water heater (clean original of the Glen Mills ad frame)
 - [`heil-furnace-closeup.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/heil-furnace-closeup.jpg) — 1200x1600, 258 KB
 - [`heil-furnace-install-branded.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/heil-furnace-install-branded.jpg) — 940x788, 131 KB
 
