@@ -37,6 +37,7 @@ Generated. Do not edit by hand.
 - [`furnace-water-heater-branded-plenum.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/furnace-water-heater-branded-plenum.jpg) — 1196x1058, 187 KB — Furnace, water heater, and new plenum installed by Middletown HVAC in a basement
 - [`furnace-install-newtown-square-01.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/furnace-install-newtown-square-01.jpg) — 1199x1600, 293 KB — High-efficiency Heil furnace and sheet-metal ductwork installed by Middletown HVAC in a Newtown Square basement
 - [`furnace-install-newtown-square-02.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/furnace-install-newtown-square-02.jpg) — 1317x989, 240 KB — High-efficiency Heil furnace and sheet-metal ductwork installed by Middletown HVAC in a Newtown Square basement
+- [`heil-furnace-install-crew.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/heil-furnace-install-crew.jpg) — 1579x1600, 345 KB — Heil furnace install with Honeywell thermostat and crew working in the background
 - [`heil-furnace-closeup.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/heil-furnace-closeup.jpg) — 1200x1600, 258 KB
 - [`heil-furnace-install-branded.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/heil-furnace-install-branded.jpg) — 940x788, 131 KB
 
@@ -55,6 +56,7 @@ Generated. Do not edit by hand.
 - [`ad-meet-the-face-of-comfort.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/ad-meet-the-face-of-comfort.jpg) — 1024x768, 195 KB
 - [`ad-real-comfort-collage.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/ad-real-comfort-collage.jpg) — 1122x1402, 338 KB
 - [`ad-sales-pressure.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/ad-sales-pressure.jpg) — 1600x900, 315 KB
+- [`ad-tech-tools-condenser.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/ad-tech-tools-condenser.jpg) — 1607x1920, 385 KB — AD GRAPHIC (baked-in logo and phone): tech with tool bag at a condenser against brick
 - [`ad-two-stage-comfort.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/ad-two-stage-comfort.jpg) — 1448x1086, 325 KB
 - [`ad-utility-waste-audit.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/ad-utility-waste-audit.jpg) — 1152x922, 272 KB
 - [`ad-water-heater-gamble.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/ad-water-heater-gamble.jpg) — 1536x1024, 332 KB
@@ -98,6 +100,7 @@ Generated. Do not edit by hand.
 - [`heil-condenser-leafy-02.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/outdoor-units/heil-condenser-leafy-02.jpg) — 1320x724, 260 KB — Heil condenser on a pad beside white siding, landscape
 - [`explaining-condenser-azaleas.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/outdoor-units/explaining-condenser-azaleas.jpg) — 900x1600, 324 KB — Tech explaining a Heil condenser install beside a brick home with azaleas in bloom
 - [`condenser-second-floor-point.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/outdoor-units/condenser-second-floor-point.jpg) — 900x1600, 322 KB — Tech at a Heil condenser pointing to the second-floor line set route, brick home with azaleas
+- [`team-heil-condenser-install.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/outdoor-units/team-heil-condenser-install.jpg) — 900x1600, 217 KB — Two Middletown HVAC technicians with a newly installed Heil condenser at a brick home with green shutters
 - [`heil-condenser-paver-pad.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/outdoor-units/heil-condenser-paver-pad.jpg) — 1536x1024, 277 KB — Heil condenser installed on a level paver pad by Middletown HVAC
 - [`mini-split-condenser-01.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/outdoor-units/mini-split-condenser-01.jpg) — 1024x768, 201 KB
 - [`mini-split-condenser-02.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/outdoor-units/mini-split-condenser-02.jpg) — 1600x1200, 342 KB
