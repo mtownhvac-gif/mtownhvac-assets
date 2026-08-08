@@ -31,6 +31,12 @@ Generated. Do not edit by hand.
 
 ## furnaces
 
+- [`heil-furnace-closet-clean.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/heil-furnace-closet-clean.jpg) — 937x1600, 251 KB — Heil furnace and coil in a block-wall utility closet, PVC venting routed clean
+- [`heil-furnace-horizontal-sticker.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/heil-furnace-horizontal-sticker.jpg) — 1320x982, 265 KB — Horizontal Heil furnace with the Middletown HVAC service sticker, installed in a crawl space
+- [`heil-furnace-coil-basement.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/heil-furnace-coil-basement.jpg) — 1206x1600, 321 KB — Heil furnace with matched coil and fabricated plenum in a basement
+- [`oil-furnace-beckett-burner.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/oil-furnace-beckett-burner.jpg) — 736x1600, 249 KB — Oil-fired furnace with Beckett burner, barometric damper, and labeled filter size — oil equipment we service
+- [`heil-furnace-old-basement.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/heil-furnace-old-basement.jpg) — 1320x985, 274 KB — Heil furnace and coil installed in an older stone-wall basement beside a Middletown-installed water heater
+- [`heil-furnace-closet-wide.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/heil-furnace-closet-wide.jpg) — 1212x1600, 289 KB — Heil high-efficiency furnace and coil in a finished-basement utility closet, PVC venting and condensate pump
 - [`furnace-basement-install-01.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/furnace-basement-install-01.jpg) — 1024x768, 138 KB
 - [`furnace-basement-install-01-tight.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/furnace-basement-install-01-tight.jpg) — 789x768, 127 KB — Heil furnace with fabricated plenum and PVC venting, tight crop of furnace-basement-install-01 without the stool and old humidifier at left
 - [`furnace-horizontal-install.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/furnaces/furnace-horizontal-install.jpg) — 1200x1600, 233 KB
@@ -48,6 +54,8 @@ Generated. Do not edit by hand.
 
 ## general
 
+- [`tech-furnace-repair-interior.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/tech-furnace-repair-interior.jpg) — 1208x1600, 339 KB — Middletown HVAC technician in branded hoodie working inside an open furnace cabinet
+- [`combustion-analyzer-test.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/combustion-analyzer-test.jpg) — 1211x1600, 336 KB — Middletown HVAC technician running a combustion analysis with a probe in the flue at a Heil furnace
 - [`ad-clean-installs.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/ad-clean-installs.jpg) — 1600x900, 323 KB
 - [`ad-ductless-leaks.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/ad-ductless-leaks.jpg) — 1600x900, 347 KB
 - [`ad-emergency-service-24-7.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/general/ad-emergency-service-24-7.jpg) — 1600x1035, 290 KB
@@ -82,6 +90,10 @@ Generated. Do not edit by hand.
 
 ## outdoor-units
 
+- [`heil-condenser-beauty.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/outdoor-units/heil-condenser-beauty.jpg) — 1320x982, 332 KB — Heil condenser straight on against a white stucco wall with mulch and granite curbing
+- [`tech-charging-system-snow.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/outdoor-units/tech-charging-system-snow.jpg) — 1320x727, 218 KB — Middletown HVAC technician charging a system with gauges and a nitrogen tank in the snow
+- [`heil-condenser-snow.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/outdoor-units/heil-condenser-snow.jpg) — 1320x732, 241 KB — Heil outdoor unit on a pad in the snow beside vinyl siding
+- [`heil-condenser-gravel-pad.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/outdoor-units/heil-condenser-gravel-pad.jpg) — 1203x1600, 346 KB — Heil condenser set on a composite pad with fresh gravel beside a stucco wall
 - [`condenser-brick-home-01.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/outdoor-units/condenser-brick-home-01.jpg) — 360x480, 54 KB
 - [`condenser-brick-home-02.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/outdoor-units/condenser-brick-home-02.jpg) — 768x1024, 203 KB
 - [`condenser-brick-home-03.jpg`](https://cdn.jsdelivr.net/gh/mtownhvac-gif/mtownhvac-assets@main/images/outdoor-units/condenser-brick-home-03.jpg) — 1600x1200, 324 KB
